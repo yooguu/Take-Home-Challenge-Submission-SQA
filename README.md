@@ -86,5 +86,5 @@ When I open the group that I want to manage
 And I click on the option to manage the group
 And I add or remove group members
 And I save the changes
-Then The group is successfully managed.
+Then The group is successfully managed
 ```
